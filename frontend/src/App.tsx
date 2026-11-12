@@ -1,0 +1,1 @@
+export default function App(){return <main className="setup"><span>QUICKBITE</span><h1>Project setup is ready.</h1><p>Your React + TypeScript + Vite application is running.</p></main>}
