@@ -1,4 +1,7 @@
-# QuickBite Version 10
-Included through milestone 10: Final homepage and authentication polish.
+# QuickBite Development Milestones
 
-Scope is limited to initial setup, homepage UI, registration, and login. Customer ordering, cart, checkout, admin, kitchen, and rider modules are not included in these 10 versions.
+Completed through Version 11: Customer dashboard foundation.
+
+Git commit: `Create customer dashboard layout and welcome panel`
+
+Level 4 covers customer dashboard, menu browsing, categories, search, sorting, and food details. Level 5 covers cart display, add/remove actions, quantity updates, totals, persistence, and responsive states.
