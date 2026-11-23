@@ -1,13 +1,7 @@
 # QuickBite Development Milestones
 
-<<<<<<< HEAD
-Completed through Version 12: Dashboard navigation and cart summary.
+Completed through Version 14: Food search and sorting filters.
 
-Git commit: `Add customer dashboard navigation and cart summary`
-=======
-Completed through Version 13: Food menu and category browsing.
-
-Git commit: `Add customer food menu and category browsing`
->>>>>>> e085b29 (Add customer food menu and category browsing)
+Git commit: `Add food search and sorting filters`
 
 Level 4 covers customer dashboard, menu browsing, categories, search, sorting, and food details. Level 5 covers cart display, add/remove actions, quantity updates, totals, persistence, and responsive states.

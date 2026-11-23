@@ -60,3 +60,27 @@ Git commit message:
 This ZIP is a cumulative project snapshot based on Version 10. Copy the project files into your existing QuickBite working folder without copying or replacing its `.git` directory. Review `git status` before committing.
 
 Feature note: This milestone is part of Level 4 (Customer Dashboard) and Level 5 (Shopping Cart). Checkout and payment processing are not included in these levels.
+
+
+## Version 13 — Food menu and category browsing
+
+Milestone: Food menu and category browsing
+
+Git commit message:
+`Add customer food menu and category browsing`
+
+This ZIP is a cumulative project snapshot based on Version 10. Copy the project files into your existing QuickBite working folder without copying or replacing its `.git` directory. Review `git status` before committing.
+
+Feature note: This milestone is part of Level 4 (Customer Dashboard) and Level 5 (Shopping Cart). Checkout and payment processing are not included in these levels.
+
+
+## Version 14 — Food search and sorting filters
+
+Milestone: Food search and sorting filters
+
+Git commit message:
+`Add food search and sorting filters`
+
+This ZIP is a cumulative project snapshot based on Version 10. Copy the project files into your existing QuickBite working folder without copying or replacing its `.git` directory. Review `git status` before committing.
+
+Feature note: This milestone is part of Level 4 (Customer Dashboard) and Level 5 (Shopping Cart). Checkout and payment processing are not included in these levels.
