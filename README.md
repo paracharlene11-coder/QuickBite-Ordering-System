@@ -108,3 +108,15 @@ Git commit message:
 This ZIP is a cumulative project snapshot based on Version 10. Copy the project files into your existing QuickBite working folder without copying or replacing its `.git` directory. Review `git status` before committing.
 
 Feature note: This milestone is part of Level 4 (Customer Dashboard) and Level 5 (Shopping Cart). Checkout and payment processing are not included in these levels.
+
+
+## Version 17 — Add items and update quantities
+
+Milestone: Add items and update quantities
+
+Git commit message:
+`Add cart actions and quantity controls`
+
+This ZIP is a cumulative project snapshot based on Version 10. Copy the project files into your existing QuickBite working folder without copying or replacing its `.git` directory. Review `git status` before committing.
+
+Feature note: This milestone is part of Level 4 (Customer Dashboard) and Level 5 (Shopping Cart). Checkout and payment processing are not included in these levels.

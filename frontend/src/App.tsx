@@ -97,7 +97,7 @@ export default function App() {
     <div className="menu-tools"><span>{filteredFoods.length} menu item{filteredFoods.length === 1 ? '' : 's'}</span><label>Sort by <select value={sort} onChange={e => setSort(e.target.value)}><option value="recommended">Recommended</option><option value="price-low">Price: low to high</option><option value="price-high">Price: high to low</option><option value="name">Name</option></select></label></div>
     {filteredFoods.length ? <div className="foods">{filteredFoods.map(food => <article className="food" key={food.id}>
       <button className="food-image-button" onClick={() => setSelectedFood(food)} aria-label={`View ${food.name}`}><img src={food.image} alt={food.name} /></button>
-      <div><small>{food.category}</small><h3>{food.name}</h3><p>{food.description}</p><div className="food-bottom"><b>{money(food.price)}</b></div></div>
+      <div><small>{food.category}</small><h3>{food.name}</h3><p>{food.description}</p><div className="food-bottom"><b>{money(food.price)}</b><button className="add-button" onClick={() => addToCart(food)}>+ Add</button></div></div>
     </article>)}</div> : <div className="empty-results"><b>No meals found</b><p>Try another search or choose a different category.</p><button onClick={() => { setSearch(''); setActiveCategory('All') }}>Clear filters</button></div>}
   </section>
 
