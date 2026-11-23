@@ -144,3 +144,15 @@ Git commit message:
 This ZIP is a cumulative project snapshot based on Version 10. Copy the project files into your existing QuickBite working folder without copying or replacing its `.git` directory. Review `git status` before committing.
 
 Feature note: This milestone is part of Level 4 (Customer Dashboard) and Level 5 (Shopping Cart). Checkout and payment processing are not included in these levels.
+
+
+## Version 20 — Cart persistence and responsive polish
+
+Milestone: Cart persistence and responsive polish
+
+Git commit message:
+`Persist shopping cart and polish responsive layout`
+
+This ZIP is a cumulative project snapshot based on Version 10. Copy the project files into your existing QuickBite working folder without copying or replacing its `.git` directory. Review `git status` before committing.
+
+Feature note: This milestone is part of Level 4 (Customer Dashboard) and Level 5 (Shopping Cart). Checkout and payment processing are not included in these levels.
